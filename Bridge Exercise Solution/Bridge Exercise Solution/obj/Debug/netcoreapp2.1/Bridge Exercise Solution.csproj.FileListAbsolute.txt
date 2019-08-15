@@ -1,0 +1,22 @@
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.deps.json
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.runtimeconfig.json
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.runtimeconfig.dev.json
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.dll
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.pdb
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.csprojAssemblyReference.cache
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.AssemblyInfoInputs.cache
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.AssemblyInfo.cs
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.dll
+C:\Users\Madhavi\source\repos\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.deps.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.runtimeconfig.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.runtimeconfig.dev.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\bin\Debug\netcoreapp2.1\Bridge Exercise Solution.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.AssemblyInfoInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.AssemblyInfo.cs
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Bridge Exercise Solution\Bridge Exercise Solution\obj\Debug\netcoreapp2.1\Bridge Exercise Solution.pdb

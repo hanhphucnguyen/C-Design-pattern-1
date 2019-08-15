@@ -1,0 +1,7 @@
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Composite\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Composite\Graphics\bin\Debug\Graphics.exe
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Composite\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Composite\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Composite\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Composite\Graphics\obj\Debug\Graphics.exe
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Composite\Graphics\obj\Debug\Graphics.pdb

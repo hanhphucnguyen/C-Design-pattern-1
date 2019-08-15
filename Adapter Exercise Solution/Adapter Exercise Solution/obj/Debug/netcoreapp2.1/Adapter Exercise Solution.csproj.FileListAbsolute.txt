@@ -1,0 +1,22 @@
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.deps.json
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.runtimeconfig.json
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.runtimeconfig.dev.json
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.dll
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.pdb
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.csprojAssemblyReference.cache
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.AssemblyInfoInputs.cache
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.AssemblyInfo.cs
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.dll
+C:\Users\Madhavi\source\repos\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.deps.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.runtimeconfig.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.runtimeconfig.dev.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\bin\Debug\netcoreapp2.1\Adapter Exercise Solution.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.AssemblyInfoInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.AssemblyInfo.cs
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Adapter Exercise Solution\Adapter Exercise Solution\obj\Debug\netcoreapp2.1\Adapter Exercise Solution.pdb

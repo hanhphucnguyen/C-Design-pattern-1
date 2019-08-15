@@ -1,0 +1,11 @@
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\bin\Debug\netcoreapp2.1\Builder Exercise Solution.deps.json
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\bin\Debug\netcoreapp2.1\Builder Exercise Solution.runtimeconfig.json
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\bin\Debug\netcoreapp2.1\Builder Exercise Solution.runtimeconfig.dev.json
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\bin\Debug\netcoreapp2.1\Builder Exercise Solution.dll
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\bin\Debug\netcoreapp2.1\Builder Exercise Solution.pdb
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\obj\Debug\netcoreapp2.1\Builder Exercise Solution.csprojAssemblyReference.cache
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\obj\Debug\netcoreapp2.1\Builder Exercise Solution.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\obj\Debug\netcoreapp2.1\Builder Exercise Solution.AssemblyInfoInputs.cache
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\obj\Debug\netcoreapp2.1\Builder Exercise Solution.AssemblyInfo.cs
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\obj\Debug\netcoreapp2.1\Builder Exercise Solution.dll
+C:\Users\Madhavi\source\repos\Builder Exercise Solution\Builder Exercise Solution\obj\Debug\netcoreapp2.1\Builder Exercise Solution.pdb

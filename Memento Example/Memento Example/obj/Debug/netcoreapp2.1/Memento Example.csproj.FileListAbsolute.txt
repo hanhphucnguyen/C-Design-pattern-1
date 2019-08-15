@@ -1,0 +1,22 @@
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.deps.json
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.runtimeconfig.json
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.runtimeconfig.dev.json
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.dll
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.pdb
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.csprojAssemblyReference.cache
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.AssemblyInfoInputs.cache
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.AssemblyInfo.cs
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.dll
+C:\Users\Madhavi\source\repos\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.deps.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.runtimeconfig.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.runtimeconfig.dev.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\bin\Debug\netcoreapp2.1\Memento Example.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.AssemblyInfoInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.AssemblyInfo.cs
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Memento Example\Memento Example\obj\Debug\netcoreapp2.1\Memento Example.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="749.232" Width="1144.093" SizeChanged="Window_SizeChanged">
+    <Grid Name="MainGrid" Background="LightGray">
+        <Label Content="Mode:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="cmbMode" Height="23" HorizontalAlignment="Left" Margin="59,10,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CmbMode_SelectionChanged">
+            <ComboBoxItem Content="XML" />
+            <ComboBoxItem Content="JSON" />
+        </ComboBox>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="184,10,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txtName"  HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="228,10,0,0"/>
+        <Label Content="Content" HorizontalAlignment="Left" Margin="353,10,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txtContent"  HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="410,10,0,0"/>
+        <Button Content="Add Brach" Name="btnAddBranch" Height="23" HorizontalAlignment="Left" Margin="535,10,0,0" VerticalAlignment="Top" Width="113" Click="BtnAddBranch_Click"/>
+        <Button Content="Add Leaf" Name="btnAddLeaf" Height="23" HorizontalAlignment="Left" Margin="653,10,0,0" VerticalAlignment="Top" Width="75" Click="BtnAddLeaf_Click"/>
+        <Button Content="Close Branch" Name="btnCloseBranch" Height="23" HorizontalAlignment="Left" Margin="733,10,0,0" VerticalAlignment="Top" Width="113" Click="BtnCloseBranch_Click"/>
+        <TextBox ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" IsReadOnly="true" Name="txtPreview" Background="White" HorizontalAlignment="Left" Margin="10,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="667" Width="1116" />
+
+    </Grid>
+
+</Window>

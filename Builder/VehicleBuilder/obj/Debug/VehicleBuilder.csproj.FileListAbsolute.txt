@@ -1,0 +1,7 @@
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Builder\VehicleBuilder\bin\Debug\VehicleBuilder.exe.config
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Builder\VehicleBuilder\bin\Debug\VehicleBuilder.exe
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Builder\VehicleBuilder\bin\Debug\VehicleBuilder.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Builder\VehicleBuilder\obj\Debug\VehicleBuilder.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Builder\VehicleBuilder\obj\Debug\VehicleBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Builder\VehicleBuilder\obj\Debug\VehicleBuilder.exe
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Builder\VehicleBuilder\obj\Debug\VehicleBuilder.pdb

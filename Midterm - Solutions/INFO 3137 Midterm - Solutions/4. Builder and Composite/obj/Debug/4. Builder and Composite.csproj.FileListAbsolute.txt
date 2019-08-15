@@ -1,0 +1,7 @@
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Midterm - Solutions\INFO 3137 Midterm - Solutions\4. Builder and Composite\bin\Debug\_4.Builder_and_Composite.exe.config
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Midterm - Solutions\INFO 3137 Midterm - Solutions\4. Builder and Composite\bin\Debug\_4.Builder_and_Composite.exe
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Midterm - Solutions\INFO 3137 Midterm - Solutions\4. Builder and Composite\bin\Debug\_4.Builder_and_Composite.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Midterm - Solutions\INFO 3137 Midterm - Solutions\4. Builder and Composite\obj\Debug\4. Builder and Composite.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Midterm - Solutions\INFO 3137 Midterm - Solutions\4. Builder and Composite\obj\Debug\4. Builder and Composite.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Midterm - Solutions\INFO 3137 Midterm - Solutions\4. Builder and Composite\obj\Debug\_4.Builder_and_Composite.exe
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Midterm - Solutions\INFO 3137 Midterm - Solutions\4. Builder and Composite\obj\Debug\_4.Builder_and_Composite.pdb

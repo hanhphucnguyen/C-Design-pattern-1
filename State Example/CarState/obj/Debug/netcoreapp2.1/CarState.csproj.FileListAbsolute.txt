@@ -1,0 +1,23 @@
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\bin\Debug\netcoreapp2.1\CarState.dll.config
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\bin\Debug\netcoreapp2.1\CarState.deps.json
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\bin\Debug\netcoreapp2.1\CarState.runtimeconfig.json
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\bin\Debug\netcoreapp2.1\CarState.runtimeconfig.dev.json
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\bin\Debug\netcoreapp2.1\CarState.dll
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\bin\Debug\netcoreapp2.1\CarState.pdb
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\obj\Debug\netcoreapp2.1\CarState.csprojAssemblyReference.cache
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\obj\Debug\netcoreapp2.1\CarState.csproj.CoreCompileInputs.cache
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\obj\Debug\netcoreapp2.1\CarState.AssemblyInfoInputs.cache
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\obj\Debug\netcoreapp2.1\CarState.AssemblyInfo.cs
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\obj\Debug\netcoreapp2.1\CarState.dll
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\CarState\obj\Debug\netcoreapp2.1\CarState.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\bin\Debug\netcoreapp2.1\CarState.deps.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\bin\Debug\netcoreapp2.1\CarState.runtimeconfig.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\bin\Debug\netcoreapp2.1\CarState.runtimeconfig.dev.json
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\bin\Debug\netcoreapp2.1\CarState.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\bin\Debug\netcoreapp2.1\CarState.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\obj\Debug\netcoreapp2.1\CarState.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\obj\Debug\netcoreapp2.1\CarState.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\obj\Debug\netcoreapp2.1\CarState.AssemblyInfoInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\obj\Debug\netcoreapp2.1\CarState.AssemblyInfo.cs
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\obj\Debug\netcoreapp2.1\CarState.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\State Example\CarState\obj\Debug\netcoreapp2.1\CarState.pdb

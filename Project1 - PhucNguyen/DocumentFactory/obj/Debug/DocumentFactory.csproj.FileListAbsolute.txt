@@ -1,0 +1,6 @@
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Project1 - PhucNguyen\DocumentFactory\bin\Debug\DocumentFactory.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Project1 - PhucNguyen\DocumentFactory\bin\Debug\DocumentFactory.pdb
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Project1 - PhucNguyen\DocumentFactory\obj\Debug\DocumentFactory.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Project1 - PhucNguyen\DocumentFactory\obj\Debug\DocumentFactory.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Project1 - PhucNguyen\DocumentFactory\obj\Debug\DocumentFactory.dll
+C:\Users\Phuc-pc\source\repos\C# Design Pattern\Project1 - PhucNguyen\DocumentFactory\obj\Debug\DocumentFactory.pdb

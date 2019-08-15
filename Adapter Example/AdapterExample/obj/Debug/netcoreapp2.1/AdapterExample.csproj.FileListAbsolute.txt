@@ -1,0 +1,11 @@
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\bin\Debug\netcoreapp2.1\AdapterExample.deps.json
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\bin\Debug\netcoreapp2.1\AdapterExample.runtimeconfig.json
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\bin\Debug\netcoreapp2.1\AdapterExample.runtimeconfig.dev.json
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\bin\Debug\netcoreapp2.1\AdapterExample.dll
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\bin\Debug\netcoreapp2.1\AdapterExample.pdb
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\obj\Debug\netcoreapp2.1\AdapterExample.csprojAssemblyReference.cache
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\obj\Debug\netcoreapp2.1\AdapterExample.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\obj\Debug\netcoreapp2.1\AdapterExample.AssemblyInfoInputs.cache
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\obj\Debug\netcoreapp2.1\AdapterExample.AssemblyInfo.cs
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\obj\Debug\netcoreapp2.1\AdapterExample.dll
+C:\Users\Madhavi\source\repos\AdapterExample\AdapterExample\obj\Debug\netcoreapp2.1\AdapterExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\bin\Debug\netcoreapp2.1\ConsoleClient-Project2.deps.json
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\bin\Debug\netcoreapp2.1\ConsoleClient-Project2.runtimeconfig.json
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\bin\Debug\netcoreapp2.1\ConsoleClient-Project2.runtimeconfig.dev.json
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\bin\Debug\netcoreapp2.1\ConsoleClient-Project2.dll
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\bin\Debug\netcoreapp2.1\ConsoleClient-Project2.pdb
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\obj\Debug\netcoreapp2.1\ConsoleClient-Project2.csprojAssemblyReference.cache
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\obj\Debug\netcoreapp2.1\ConsoleClient-Project2.csproj.CoreCompileInputs.cache
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\obj\Debug\netcoreapp2.1\ConsoleClient-Project2.AssemblyInfoInputs.cache
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\obj\Debug\netcoreapp2.1\ConsoleClient-Project2.AssemblyInfo.cs
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\obj\Debug\netcoreapp2.1\ConsoleClient-Project2.dll
+C:\Users\Phuc-pc\source\repos\ConsoleClient-Project2\ConsoleClient-Project2\obj\Debug\netcoreapp2.1\ConsoleClient-Project2.pdb

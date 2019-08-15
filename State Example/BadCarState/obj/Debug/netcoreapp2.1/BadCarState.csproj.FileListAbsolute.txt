@@ -1,0 +1,11 @@
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\bin\Debug\netcoreapp2.1\BadCarState.deps.json
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\bin\Debug\netcoreapp2.1\BadCarState.runtimeconfig.json
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\bin\Debug\netcoreapp2.1\BadCarState.runtimeconfig.dev.json
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\bin\Debug\netcoreapp2.1\BadCarState.dll
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\bin\Debug\netcoreapp2.1\BadCarState.pdb
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\obj\Debug\netcoreapp2.1\BadCarState.csprojAssemblyReference.cache
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\obj\Debug\netcoreapp2.1\BadCarState.csproj.CoreCompileInputs.cache
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\obj\Debug\netcoreapp2.1\BadCarState.AssemblyInfoInputs.cache
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\obj\Debug\netcoreapp2.1\BadCarState.AssemblyInfo.cs
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\obj\Debug\netcoreapp2.1\BadCarState.dll
+C:\fanshawe\Summer 2019\INFO3137\Week10Example\State\BadCarState\obj\Debug\netcoreapp2.1\BadCarState.pdb

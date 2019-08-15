@@ -1,0 +1,1 @@
+Note that in this exercise there's no logical reason a Cat should be a Singleton (i.e. there's no reason you'd need access to exactly a fixed number of instances of Cats) - I just couldn't come up with a more relevant example :(

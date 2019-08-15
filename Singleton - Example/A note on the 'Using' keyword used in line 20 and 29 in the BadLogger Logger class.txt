@@ -1,0 +1,12 @@
+As with C/C++/Java file operations, files are opened as handles, operated on, and closed. In C#, File objects implement the IDisposable interface, which has a method `File.Dispose()`. This closes the file. `using` is a shortcut such that no matter what happens in that block (could be errors in the block, or errors opening the file), the file gets Dispose() called on it. If an application doesn't close a file, you get the same issues as in other languages: it can't be re-opened again by anything until program execution stops.
+
+The equivalent operation is wrapping the block in a try/catch/finally and making sure you call file.Dispose in the finally block, like this:
+var writer = new StreamWriter();
+try {
+  writer.WriteLine(message);
+}
+finally {
+  if (writer != null) {
+    ((StreamWriter)writer).Dispose();
+  }
+}
